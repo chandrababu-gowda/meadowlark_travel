@@ -1,0 +1,15 @@
+{
+  "name": "meadowlark_travel",
+  "version": "1.0.0",
+  "description": "A company offering services for people visiting the great state of Oregon",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandrababu Gowda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express3-handlebars": "^0.5.2"
+  }
+}
