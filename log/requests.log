@@ -1,0 +1,4 @@
+::ffff:127.0.0.1 - - [Sat, 09 Sep 2023 04:52:58 GMT] "GET / HTTP/1.1" 200 2285 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+::ffff:127.0.0.1 - - [Sat, 09 Sep 2023 04:52:59 GMT] "GET /img/logo.png HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+::ffff:127.0.0.1 - - [Sat, 09 Sep 2023 04:53:15 GMT] "GET /about HTTP/1.1" 200 1482 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+::ffff:127.0.0.1 - - [Sat, 09 Sep 2023 04:53:15 GMT] "GET /img/logo.png HTTP/1.1" 304 - "http://localhost:3000/about" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"

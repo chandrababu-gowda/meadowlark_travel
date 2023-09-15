@@ -9,7 +9,23 @@
   "author": "Chandrababu Gowda",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
     "express": "^4.18.2",
-    "express3-handlebars": "^0.5.2"
+    "express-logger": "^0.0.3",
+    "express-session": "^1.17.3",
+    "express3-handlebars": "^0.5.2",
+    "formidable": "^3.5.1",
+    "linkchecker": "^1.1.0",
+    "loadtest": "^7.1.1",
+    "mongoose": "^7.5.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "grunt": "^1.6.1",
+    "mocha": "^10.2.0",
+    "nodemon": "^3.0.1",
+    "zombie": "^6.1.4"
   }
 }
